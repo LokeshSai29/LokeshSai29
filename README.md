@@ -1,8 +1,8 @@
 # 👋 Hi there,I'm Lokesh!
 
-🎓 I'm currently pursuing **B.Tech in Computer Science Engineering (CSE)** at `Koneru Lakshmaiah University.`   
-🛠️ On a journey to master the art of **Data Structures and Algorithms (DSA)**—because every coder needs a strong foundation!  
-🌱 I believe in continuous learning and love exploring new technologies to keep evolving.   
+- I'm currently pursuing **B.Tech in Computer Science Engineering (CSE)** at `Koneru Lakshmaiah University.`   
+- On a journey to master the art of **Data Structures and Algorithms (DSA)**—because every coder needs a strong foundation!  
+- I believe in continuous learning and love exploring new technologies to keep evolving.   
 
 > “The beautiful thing about learning is that nobody can take it away from you.” – B.B. King  
 Let’s grow together! 🚀
