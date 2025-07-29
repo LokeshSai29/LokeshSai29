@@ -18,3 +18,8 @@ Connect with me on <sub><sub>[![LinkedIn](https://img.shields.io/badge/LinkedIn-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LokeshSai29&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshSai29&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
